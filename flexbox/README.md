@@ -67,5 +67,5 @@ Read or watch:
 ---
 
 ## Author
-* ** Benedicta Oyiborhoro ** - [Benny252308]
+* **Benedicta Oyiborhoro** - [Benny252308]
 (https://github.com/Benny252308)
